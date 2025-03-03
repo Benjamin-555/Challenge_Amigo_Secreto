@@ -15,4 +15,10 @@ Juego basado en JavaScript con manipulacion de Arrays, loops y manipulacion del 
 ![AmigosApp](https://github.com/user-attachments/assets/0c7979e0-7e72-4896-8407-6427508333e3)
 
 <h2>✅Tecnologias utilizadas</h2>
-![html-5](https://github.com/user-attachments/assets/30c9563e-6006-4cd7-939c-cfda23365468)
+<ul>
+    <li>HTML📐</li>
+    <li>CSS🎨</li>
+    <li>JavaScript🧩</li>
+</ul>
+
+
